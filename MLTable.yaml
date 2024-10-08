@@ -1,0 +1,8 @@
+# MLTable definition file
+
+paths:
+  - file: ./Metro_Interstate_Traffic_Volume.csv
+transformations:
+  - read_delimited:
+        delimiter: ','
+        encoding: 'ascii'
