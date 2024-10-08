@@ -1,0 +1,18 @@
+{
+  "input_data": {
+    "columns": [
+      "holiday",
+      "temp",
+      "rain_1h",
+      "snow_1h",
+      "clouds_all",
+      "weather_main",
+      "weather_description",
+      "date_time"
+    ],
+    "index": [0],
+    "data": [
+      [0, 288.15, 0.0, 0.0, 75, "Clear", "sky is clear", "2024-01-01 00:00:00"]
+    ]
+  }
+}
